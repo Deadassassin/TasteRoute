@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Window background only. Every in-app color comes from ui/theme/Color.kt. -->
+    <color name="window_background">#FFF6FAF6</color>
+    <color name="basil">#FF2E7D50</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

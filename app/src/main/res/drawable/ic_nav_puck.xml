@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Course arrow for the navigation map. Drawn pointing up: the map rotates to the driver's
+     heading while following, and the marker itself rotates when they have panned away. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="36dp"
+    android:height="36dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M24,2 L44,44 L24,34 L4,44 Z" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M24,7 L39.5,39.5 L24,31.75 L8.5,39.5 Z" />
+</vector>

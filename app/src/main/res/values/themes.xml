@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      The window is painted before Compose runs. Left light-only, the first frame of a cold start
+      in dark mode is a white flash; values-night overrides it.
+    -->
+    <style name="Theme.TasteRoute" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+</resources>
